@@ -1,7 +1,8 @@
 
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/18/a4/94/18a4949fc9c8067172d3b96e302e7097.gif" alt="ebraheemnas" /> 
 
-<h1 align="center">Hi 👋, I'm Ibrahim </h1>
+<h1 align="center">Hi 👋,&nbsp;&nbsp;I'm Ibrahim</h1>
+
 <h3 align="center">Passionate Frontend & Backend Developer with Expertise in ERP Systems and Business Operations</h3>
 
 - 🔭 I’m currently working on a MERN AI image generation App [AImergeS](TBD)
