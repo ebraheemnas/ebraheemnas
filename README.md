@@ -4,17 +4,11 @@
 <h1 align="center">Hi 👋, I'm Ibrahim </h1>
 <h3 align="center">Passionate Frontend & Backend Developer with Expertise in ERP Systems and Business Operations</h3>
 
-<p align="left"> <a href="https://twitter.com/ebraheemrajanas" target="blank"><img src="https://img.shields.io/twitter/follow/ebraheemrajanas?logo=twitter&style=for-the-badge" alt="ebraheemrajanas" /></a> </p>
-
 - 🔭 I’m currently working on a MERN AI image generation App [AImergeS](TBD)
 
 - 👨‍💻 All of my projects are available at [https://mynasportfolio.website](https://mynasportfolio.website)
 
-- 💬 Ask me about **React, Java & Adobe**
-
 - 📫 How to reach me **ebraheem.nas@gmail.com**
-
-- ⚡ Fun fact **I play RS3**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
