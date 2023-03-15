@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [https://mynasportfolio.website](https://mynasportfolio.website)
 
-- 📫 How to reach me **ebraheem.nas@gmail.com**
+- 📫 How to reach me: **ebraheem.nas@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
