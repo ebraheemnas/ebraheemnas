@@ -1,11 +1,11 @@
 
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/18/a4/94/18a4949fc9c8067172d3b96e302e7097.gif" alt="ebraheemnas" /> 
 
-<h1 align="center">Nassar Ibrahim</h1>
+<h1 align="center">&#X22c6; Nassar Ibrahim &#X22c6;</h1>
 
 <h3 align="center">Passionate Frontend & Backend Developer with Expertise in ERP Systems and Business Operations</h3>
 
-- 🔭 I’m currently working on a MERN AI image generation App [AImergeS](TBD)
+- 🔭 I’m currently working on a GPT AI Website using React (TBD)
 
 - 👨‍💻 All of my projects are available at [https://mynasportfolio.website](https://mynasportfolio.website)
 
