@@ -5,7 +5,7 @@
 
 <h3 align="center">Passionate Frontend & Backend Developer with Expertise in ERP Systems and Business Operations</h3>
 
-- 🔭 I’m currently working on a GPT AI Website using React
+- 🔭 I’m currently working on a GPT AI Website utilizing React
 
 - 👨‍💻 All of my projects are available at <a href="https://mynasportfolio.website" target="_blank"> https://mynasportfolio.website </a>
 
