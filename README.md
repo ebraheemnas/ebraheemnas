@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on a GPT AI Website using React
 
-- 👨‍💻 All of my projects are available at [https://mynasportfolio.website](https://mynasportfolio.website)
+- 👨‍💻 All of my projects are available at <a href="https://mynasportfolio.website" target="_blank"> https://mynasportfolio.website </a>
 
 - 📫 How to reach me: **ebraheem.nas@gmail.com**
 
