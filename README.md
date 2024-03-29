@@ -3,7 +3,7 @@
 
 <h1 align="center">&#X22c6; Nassar Ibrahim &#X22c6;</h1>
 
-<h3 align="center">Passionate Frontend & Backend Developer with Expertise in ERP Systems and Business Operations</h3>
+<h3 align="center">Frontend & Backend Developer with Expertise in ERP Systems and Business Operations</h3>
 
 - 🔭 I’m currently working on a GPT AI Website utilizing React
 
